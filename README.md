@@ -4,7 +4,7 @@ A Python-based project for analyzing fitness data, tracking progress, and genera
 
 ## Project Structure
 
-```
+``` text
 fitness_py/
 ├── data/              # Raw and processed data
 ├── notebooks/         # Jupyter notebooks for analysis and visualization
@@ -27,19 +27,22 @@ fitness_py/
 
 ### Installation
 
-1. Clone the repository:
+1 . Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/fitness_py.git
 cd fitness_py
 ```
 
-2. Create and activate the conda environment:
+2 . Create and activate the conda environment:
+
 ```bash
 conda env create -f environment.yml
 conda activate fitness_py
 ```
 
-3. Install dependencies:
+3 . Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
