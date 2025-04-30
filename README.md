@@ -8,10 +8,6 @@ A Python-based project for analyzing fitness data, tracking progress, and genera
 fitness_py/
 ├── data/              # Raw and processed data
 ├── notebooks/         # Jupyter notebooks for analysis and visualization
-├── src/               # Source code
-│   ├── __init__.py    # Makes src a package
-├── tests/             # Test scripts
-├── results/           # Analysis results and visualizations
 ├── environment.yml    # Conda environment file
 ├── .gitignore         # Files to ignore in Git
 ├── LICENSE            # Project license
